@@ -1,0 +1,1 @@
+# Fiyat formatlama (TL), telefon doğrulama

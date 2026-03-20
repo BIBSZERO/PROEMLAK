@@ -1,0 +1,1 @@
+# Supabase URL ve Key bağlantısı

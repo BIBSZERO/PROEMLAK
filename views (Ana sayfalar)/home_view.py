@@ -1,0 +1,1 @@
+# Ziyaretçilerin gördüğü ilan listesi

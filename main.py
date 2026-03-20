@@ -1,0 +1,1 @@
+# Uygulamanın giriş kapısı (Yönlendirme/Routing)
