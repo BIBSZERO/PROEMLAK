@@ -1,0 +1,1 @@
+# İlanları çekme, Filtreleme
