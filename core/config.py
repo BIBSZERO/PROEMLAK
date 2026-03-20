@@ -15,4 +15,4 @@ def get_supabase() -> Client:
     return create_client(SUPABASE_URL, SUPABASE_KEY)
 
 # Uygulama genelinde kullanılacak hazır istemci
-supabase = get_supabase()
+db = get_supabase()
